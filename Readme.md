@@ -62,14 +62,7 @@ The project includes functionality to execute SQL queries on the database. For e
     ```
 
 - Results are displayed in a formatted table:
-  ```
-  Genre           Average Rank
-  -----------------------------
-  Comedy          8.50
-  Drama           8.30
-  Action          7.80
-  Documentary     7.50
-  ```
+  ![alt text](image.png)
 
 ## Enhancements and Future Development
 
